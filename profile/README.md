@@ -33,7 +33,13 @@
 
 **Tech**
 
-`React Native` `Expo` `TypeScript` `Supabase` `Firebase` `RevenueCat` `AdMob`
+- `React Native 0.86.2` `React 19.2.3` `TypeScript 6.0.3` `Expo SDK 57.0.9`
+- `Expo Router 57.0.9` `Zustand 5.0.14`
+- `Supabase JS 2.110.3` `Supabase PostgreSQL` `Supabase Edge Functions (Deno)`
+- `Firebase App 25.1.0` `Firebase Analytics 25.1.0`
+- `RevenueCat 10.6.0` `Google Mobile Ads 16.3.4`
+- `React Native Vision Camera 5.1.0` `React Native Skia 2.6.2`
+- `Android minSdk 26` `Gradle 9.3.1` `Hermes JavaScript Engine`
 
 ### 2️⃣ Groupware 🏙️
 
