@@ -18,7 +18,7 @@
 
 ## Projects
 
-### [Tone Me](https://play.google.com/store/apps/details?id=com.toneme.app) 🎨
+### 1️⃣ [Tone Me](https://play.google.com/store/apps/details?id=com.toneme.app) 🎨
 
 퍼스널컬러를 기반으로 사용자에게 어울리는 사진 필터를 제공하는 Android 모바일 애플리케이션입니다.
 
@@ -35,7 +35,7 @@
 
 `React Native` `Expo` `TypeScript` `Supabase` `Firebase` `RevenueCat` `AdMob`
 
-### Groupware 🏙️
+### 2️⃣ Groupware 🏙️
 
 조직의 업무와 협업을 지원하는 웹 기반 그룹웨어 시스템입니다.
 
@@ -64,7 +64,7 @@
   - `Lexical 0.45.0` `React Datepicker 4.25.0`
   - `Vite 5.4.19`
 
-### Commerce Platform 🛒
+### 3️⃣ Commerce Platform 🛒
 
 상품 관리와 사용자 서비스를 제공하는 웹 기반 커머스 프로젝트입니다.
 
@@ -95,7 +95,7 @@
   - `Swiper 12.1.3`
   - `Vite 5.4.19`
 
-### [Care Service Platform](https://omcst.duckdns.org:9999/nursing/) 🧓
+### 4️⃣ [Care Service Platform](https://omcst.duckdns.org:9999/nursing/) 🧓
 
 공공데이터를 활용하여 요양 관련 시설 정보를 검색하고 비교할 수 있도록 구성한 웹 서비스입니다.
 
@@ -125,7 +125,7 @@
   - `MUI Icons 7.3.9`
   - `Vite 5.4.19`
 
-### Attenda 💬
+### 5️⃣ Attenda 💬
 
 웹, AI Agent 기반 근태·휴가 업무 자동화 시스템입니다.
 
